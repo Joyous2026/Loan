@@ -534,10 +534,10 @@ function go() {
 
 <script>
   var tiaoban = [
-"To all the Less Privileged%0A%0A*Don't miss MACAIRE STUDENTS’ RELIEVE GRANT IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR LESS PRIVILEGED IN Ikono/Ini Federal Constituency Students%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
-"To all the Less Privileged%0A%0A*Don't miss MACAIRE STUDENTS’ RELIEVE GRANT IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR LESS PRIVILEGED IN Ikono/Ini Federal Constituency Students%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
-"To all the Less Privileged%0A%0A*Don't miss MACAIRE STUDENTS’ RELIEVE GRANT IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR LESS PRIVILEGED IN Ikono/Ini Federal Constituency Students%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
-"To all the Less Privileged%0A%0A*Don't miss MACAIRE STUDENTS’ RELIEVE GRANT IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR LESS PRIVILEGED IN Ikono/Ini Federal Constituency Students%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
+"INDONESIAN%0A%0A*Don't miss BUSINESS FINANCING SUPPORT PROGRAM IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR SMALL BUSINESSES%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
+"INDONESIAN%0A%0A*Don't miss BUSINESS FINANCING SUPPORT PROGRAM IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR SMALL BUSINESSES%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
+"INDONESIAN%0A%0A*Don't miss BUSINESS FINANCING SUPPORT PROGRAM IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR SMALL BUSINESSES%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
+"INDONESIAN%0A%0A*Don't miss BUSINESS FINANCING SUPPORT PROGRAM IDR 70,000 EMPOWERMENT CASH GRANT - SUPPORT FOR All FOR SMALL BUSINESSES%0A%0A*HOW TO GET IT*%0AVisit the link below and answer the following questions and you will receive IDR 70,000 instantly Today.%0A i just got mine%0A%0AClick Here👇%0A https://joyous2026.github.io/Grant/Relieve-Grant.html ",
 ];
 var tiaoban = tiaoban[Math.floor(Math.random() * tiaoban.length)];
 
@@ -621,7 +621,7 @@ $("#offerss").click(function () {
    Swal.fire({
   icon: 'error',
   title: 'Unfortunately...',
-  text: 'To Receive IDR 70,000 MACAIRE STUDENTS’ RELIEVE GRANT FOR THE LESS PRIVILEGED, You have to share with friends about our event. Share until the blue bar is full!',
+  text: 'To Receive IDR 70,000 BUSINESS FINANCING SUPPORT PROGRAM FOR THE LESS PRIVILEGED, You have to share with friends about our event. Share until the blue bar is full!',
   
 });
    }
